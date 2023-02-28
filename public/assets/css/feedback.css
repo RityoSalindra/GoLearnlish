@@ -1,0 +1,13 @@
+main{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #A7C957;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

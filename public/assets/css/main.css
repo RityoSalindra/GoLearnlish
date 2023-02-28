@@ -1,0 +1,77 @@
+/* Header */
+.main-nav {
+  background-color: #a7c957;
+}
+.main-nav a.navbar-brand {
+  color: #f2e8cf;
+  font-weight: 1000;
+}
+.main-nav .navbar-nav a.nav-link {
+  color: #f2e8cf;
+  font-weight: 1000;
+}
+.main-nav .navbar-nav a.nav-link.active,
+.main-nav .navbar-nav a.nav-link:hover {
+  color: #bc4749;
+}
+
+/* Home */
+.main-home {
+  background-color: #a7c957;
+  color: #f2e8cf;
+}
+.main-home h1 span {
+  color: #386641;
+}
+.btn {
+  background-color: #386641;
+  color: #f2e8cf;
+}
+.btn.active,
+.btn:hover {
+  background-color: #bc4749;
+  color: #f2e8cf;
+}
+
+/* Belajar */
+.main-belajar {
+  background-color: #f2e8cf;
+  color: #a7c957;
+  padding: 0;
+}
+.border-card-belajar {
+  background-color: #bc4749;
+  border-color: #386641;
+  color: #f2e8cf;
+}
+.btn-belajar {
+  background-color: #a7c957;
+}
+.btn-belajar.active,
+.btn-belajar:hover {
+  background-color: #386641;
+}
+
+/* QUIZ */
+.main-quiz {
+  background-color: #a7c957;
+  color: #f2e8cf;
+  padding: 0;
+}
+.border-card-quiz {
+  background-color: #bc4749;
+  border-color: #386641;
+  color: #f2e8cf;
+}
+.btn-quiz {
+  background-color: #386641;
+  color: #f2e8cf;
+}
+.btn-quiz.active,
+.btn-quiz:hover {
+  background-color: #a7c957;
+  color: #bc4749;
+}
+.jarak-quiz{
+  padding-bottom: 20px;
+}
